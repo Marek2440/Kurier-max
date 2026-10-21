@@ -1,5 +1,5 @@
 // Pamięć gry do grania bez internetu. Wersję wstawia build.mjs przy każdej zmianie gry.
-const VERSION = '37ebd14f40eb';
+const VERSION = 'b31b3b143728';
 const SHELL = 'shell-' + VERSION;
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 
